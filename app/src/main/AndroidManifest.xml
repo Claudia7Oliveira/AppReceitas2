@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.claudia.appreceitas">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/bolo_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/bolo_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".boloActivity" />
+        <activity android:name=".tortaActivity" />
+        <activity android:name=".pudimActivity" />
+        <activity android:name=".BoloCenouraActivity" />
+        <activity android:name=".BoloChocolateActivity" />
+        <activity android:name=".BoloCocoActivity" />
+        <activity android:name=".PaoDeLoActivity" />
+        <activity android:name=".BoloLaranjaActivity" />
+        <activity android:name=".tortaBolachaActivity" />
+        <activity android:name=".martaRochaActivity" />
+        <activity android:name=".tortaAmoraActivity" />
+        <activity android:name=".tortaMorangoActivity" />
+        <activity android:name=".tortaMacaActivity" />
+        <activity android:name=".pundinChocolateActivity" />
+        <activity android:name=".pudimLeiteActivity" />
+        <activity android:name=".pudimPaoActivity" />
+        <activity android:name=".pudimCocoActivity" />
+        <activity android:name=".pudimLaranjaActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,298 @@
+<resources>
+<string name="app_name">App Receitas</string>
+    <string name="bolo_laranja">  \t Ingredirntes:\n* 4 ovos\n* 2 xícaras (chá) de açúcar
+        \n* 1 xícara (chá) de óleo\n* suco de 2 laranjas\n* casca de 1 laranja\n* 2 xícaras (chá) de farinha de trigo
+        \n* 1 colher (sopa) de fermento
+        \n\n\tModo de preparo:\n* Bata no liquidificador os ovos, o açúcar, o óleo, o suco e a casca da laranja
+        \n* Passe para uma tigela e acrescente a farinha de trigo e o fermento
+        \n* Leve para assar em uma forma com furo central, untada e enfarinhada, por mais ou menos 30 minutos
+        \n* Desenforme o bolo e molhe com suco de laranja"
+        \n\n
+    </string>
+    <string name="bolo_cenoura">\tIngredientes:\n\n\tMassa:
+        \n* 3 cenouras (480g)\n* 4 ovos\n* 1 xícara (chá) de óleo
+        \n* 2 xícaras (chá) de açúcar\n* 2 xícaras (chá) de farinha de trigo
+        \n* 1 xícara (chá) de Maizena\n* 1 colher (sopa) de fermento em pó
+        \n\n\tCobertura:
+        \n* 1 colher (sopa) de manteiga\n* 6 colheres (sopa) chocolate em pó
+        \n* 6 colheres (sopa) de açúcar\n* 1 xícara (chá) de leite
+        \n\n\tModo de preparo:
+        \n1- Descasque as cenouras e corte em pedaços. Transfira para o liquidificador. e adicione o óleo, os ovos e o açúcar. Bata bem.
+        \n2- Despeje o conteúdo do liquidificador em uma tigela. Acrescente a farinha, a Maizena, e misture. Por último agregue o fermento, e misture novamente.
+        \n3- Despeje a massa em forma de furo central (ARO 24) untada e enfarinhada.
+        \n4- Leve ao forno preaquecido 180° por aproximadamente 40 minutos.
+        \n5- Para a cobertura: Em uma panela coloque todos os ingredientes e deixe levantar fervura, abaixe o fogo e deixe apurando por aproximadamente 10 minutos, até engrossar um pouquinho.
+        \n6- Desenforme o bolo, e regue com a calda.
+        \n\n
+</string>
+    <string name="bolo_coco">\tIngredientes:\n
+        \n* 1 xicara (chá) de leite\n* 2 colheres (sopa) de coco ralado\n* 1 colher (sopa) de fermento em po
+        \n* 2 colheres (sopa) de margarina ou manteiga/n* papel alumínio para embrulhar\n\n\tcalda:
+        \n* 1 lata de leite condensado
+        \n\n\t Modo de preapro
+        \n\t\massa:\n *bata os ovos, o leite, a margarina, o açúcar e o coco no liquidificador
+        \n* coloque o trigo em uma tigela e despeje a mistura do liquidificador
+        \n* misture até que fique homogêneo\n* acrescente o fermento por último
+        \n* coloque em uma forma untada e enfarinhada\n* asse por cerca de 40 minutos ou até dourar
+        \n* calda:\n* misture tudo (não vai ao fogo)\n* coloque sobre o bolo ainda quente
+        \n *enrole o bolo sobre o papel alumínio e leve a geladeira até gelarn* 1 vidro (200 ml) de leite de coco
+        \n* 1 xicara (chá) de coco ralado"
+        \n\n
+</string>
+    <string name="bolo_chocolate">\tIngredientes:
+        \n\n\t Massa:
+        \n* 2 xícaras (chá) de farinha de trigo\n* 1\2 xícara de chocolate em pó\n* 3 colheres (sopa) margarina
+        \n* 3 ovos grandes\n* 1 xícara (chá) leite gelado\n* 1 xícara (chá) de açúcar refinado
+        \n* 1 colher sopa bem cheia de fermento em pó
+        \n\n\t Cobertura:
+        \n* 250 ml. de leite\n* 1 xícara (chá) de leite condensado\n* 2 gemas peneiradas\n* 1 colher (sopa) de amido de milho
+        \n* 1 xícara (chá) de chocolate ao leite picado\n* 1 xícara (chá) de creme de leite
+        \n* raspas de chocolate para decorar
+        \n\n\n\tModo de preparo
+        \n\tMassa:
+        \nBater as claras em neve,reservar. Passar as gemas pela peneira, Bater as gemas, açúcar é margarina,até obter um creme fofo.
+        \nDesligue a batedeira e acrescentar o leite, mexer, acrescentar a farinha é o chocolate, mexer, bater um pouco para misturar os ingredientes,
+        desligue a batedeira é acrescente delicadamente o fermento é as claras em neve.
+        \nAssar a 180 por mais ou menos 35 minutos,em forma 20 cm. untada é enfarinhada somente no fundo.
+        \n\tCobertura:\nMisture todos os ingredientes em uma panela,(menos o creme de leite),
+        leve ao fogo médio, mexendo sempre até engrossar.Tire do fogo é acrescente o creme de leite.
+        \n\n\tMontagem:\nDepois do bolo assado é frio, desenforme, jogar a cobertura por cima é as raspas de chocolate."
+        \n\n
+    </string>
+    <string name="pão_de_lo">\tIngredientes
+        \n* 4 ovos\n* 2 xícaras de chá de farinha de trigo\n* 2 xícaras de chá de açúcar
+        \n* 1 colher de sopa de fermento em pó\n* 1 xícara de chá de água fervente
+        \n\n\tModo de Preparo
+        \n* Separe 4 claras e 4 gemas.
+        \n* Bata as claras em neve e reserve.
+        \n* Na tigela maior da batedeira, coloque as 4 gemas com 1 xícara de chá de água fervente e bata até espumar bastante.
+        \n* Sempre batendo e aos poucos, primeiro coloque 2 xícaras de chá de açúcar. Depois de alguns minutos,
+        aos poucos, incorpore 2 xícaras de chá de farinha de trigo e continue a bater até ficar homogênea.
+        (aproximadamente uns 10 minutos).
+        \n* Desligue a batedeira, junte o fermento em pó, as claras em neve e com uma colher de pau,
+        mexa delicadamente com movimentos circulares de baixo para cima.\n* Passe margarina na forma e polvilhe com farinha de trigo.
+        \n* Despeje a massa e bata a assadeira com a massa algumas vezes numa superfície dura a fim de eliminar eventuais bolhas de ar
+        que podem expandir e causar a quebra do bolo na hora de desenformar.
+        \n* Leve ao forno, que deverá estar com temperatura alta e deixe assando nesta temperatura por 10 minutos.
+        \n* Passados os 10 minutos, abaixe para temperatura média e deixe por aproximadamente mais 20 minutos.
+        \n\n Pode ser consumido puro ou como base para rocamboles, bolos recheados, bolos de aniversário ou pavês. "
+        \n\n
+</string>
+    <string name="torta_bolacha">
+        \tIngredientes:
+        \n* 2 pacotes de bolacha maria\n* 1 lata de leite condensado
+        \n* 1 pote de nata pasteurizada\n* 1 xícara de leite\n* confeitos para decorar
+        \n\n\tModo de preparo
+        \n* Bata no liquidificador a nata e o leite condensado até formar uma mistura homogênea
+        \n* Em um refratário coloque as bolachas (passe-as no leite antes)
+        \n* Faça uma camada de bolacha e uma camada de recheio assim por diante
+        \n* Depois de pronta leve à geladeira por 2 horas\n* Sirva
+        \n\n
+    </string>
+    <string name="torta_marta_rocha">
+        \tIngredientes:
+        \n\n\tMassa:
+        \n* 6 claras\n* 6 gemas\n* 1 xícara (chá) de açúcar peneirado
+        \n* 3 colheres (sopa) de chocolate em pó\n* 1 xícara (chá) de farinha de trigo
+        \n\n\tRecheio
+        \n* 2 colheres (sopa) de maisena\n* 1/2 xícara (chá) de leite
+        \n* 6 gemas\n* 1 xícara (chá) de açúcar\n* 1 xícara (chá) de água
+        1 colher (sopa) de margarina Doriana culinária
+        \n* meio litro de chantily\n* crocante de nozes a gosto
+        \n\n\tSuspiro:
+        \n* 6 claras\n* 1 xícara e meia (chá) de açúcar
+        \n\n\tModo de preparo:
+        \n\n\tBolo:
+        \n1- Unte e enfarinhe uma assadeira média com margarina e farinha de trigo, reserve
+        \n2- Pré-aqueça o forno em temperatura média (180ºC)
+        \n3- Coloque as claras na batedeira e bata até obter picos firmes
+        \n4- Sem parar de bater, junte as gemas, uma a uma
+        \n5- Acrescente aos poucos o açúcar e o chocolate em pó
+        \n6- Bata até obter uma massa fofa
+        \n7- Retire da batedeira e misture a farinha delicadamente
+        \n8- coloque a massa na assadeira reservada e leve ao forno por aproximadamente 20 minutos ou até que, espetando um palito, este saia limpo
+        \n9- Reserve
+        \n\tRecheio:
+        \n1- Em uma panela, dissolva a maisena no leite
+        \n2- Junte as gemas, o açúcar e a água
+        \n3- Leve so fogo médio, mexendo sempre, até engrossar
+        \n4- Retire do fogo e junte a margarina DORIANA culinária
+        \n5- Mexa a bem e reserve
+        \n6- Unte uma fôrma redonda média e forre-a com papel-manteiga, também untado
+        \n7- Pré-aqueça o forno em temperatura baixa (150ºC)
+        \n8- Coloque as claras na batedeira e bata até obter picos firmes
+        \n9- Sem parar de bater, junte o açúcar e bata por cerca de 5 minutos ou até formar um suspiro firme
+        \10- Coloque o suspiro em um saco de confeitar e faça pequenos discos sobre o papel-manteiga
+        \n11- Leve ao forno por cerca de 20 minutos ou até corar
+        \n12- Reserve
+        \n\n\tFinalizando:
+        \n* Corte o bolo em 3 partes (formando 3 discos) e recheie, alternando camadas de creme, suspiro, chantilly e crocante
+        \n* Decore com chantilly fios de ovos e cerejas (opcional)
+        \n* Leve à geladeira por cerca de 2 horas
+        \n\n
+    </string>
+    <string name="torta_amora">
+        \tIngredientes
+        \n\n\tRecheio
+        \n* 1 xícara de açúcar\n*
+        1 xícara de água \n*
+        500 gramas de amora\n* de suco de limão (1 limão)
+        \n* 1 colher de chá de extrato de baunilha ou 1 colher de sopa de essência
+        \n\tMassa:
+        \n* 1 xícara de farinha de trigo \n*
+        5 colheres de sopa de açúcar refinado
+        \n*
+        150 gramas de manteiga gelada em cubos \n*
+        1 pitada de sal
+        \n* 1 colher de sopa de água gelada\n* raspas de limão \n*
+        1 colher de chá de canela
+        \n* 2 unidades de gema (uma para a massa e outra para pincelar)
+        \n\n\tModo de preparo:
+        \n\t* Recheio
+        \n* Em uma panela, coloque a água e o açúcar.
+        \n* Misture bem e leve para fogo baixo. Quando levantar fervura, junte as amoras e deixe cozinhar por 5 minutos.
+         Junte a baunilha, misture bem e desligue o fogo.Com uma colher, retire as amoras, deixando o líquido, e reserve.
+         Coloque o limão na calda e deixe ferver em fogo baixo até engrossar. Coe e reserve. Depois que a calda estiver fria,
+         junte 2 colheres de sopa da calda nas amoras e misture delicadamente
+        \n\tMassa:
+        \n* Em uma tigela, coloque a farinha, a gema, o açúcar, o sal e a manteiga.
+        Misture bem com as mãos até que a manteiga toda se incorpore à farinha.
+         Coloque metade da água e misture até formar uma massa homogênea e lisa.
+        Se necessário, adicione mais água. Enrole a massa em papel filme e leve para a geladeira por 15 minutos.
+        \n\tMontagem:
+        \n* "Em uma forma de fundo removível coloque uma das partes da massa no fundo e nas laterais da forma.
+         Coloque o recheio. Abra a outra parte da massa com um rolo – você pode colocar entre duas folhas de papel manteiga
+        para facilitar – e cubra a torta com ela. Faça pequenos cortes na superfície da massa e pincele uma gema de ovo batida
+        com um pouco de água. Asse por cerca de 15 a 20 minutos, até a massa ficar dourada.
+        \n\n
+    </string>
+    <string name="torta_morango">
+        \tIngredientes:
+        \n* 1 xícara (chá) de farinha de trigo\n* ½ xícara (chá) de amido de milho
+        \n* ¼ de xícara (chá) de água gelada\n* ½ xícara (chá) de margarina
+        \n* 2 colheres (sopa) de açúcar
+        \n* 1 pitada de sal
+        \n\n\tCreme:
+        \n* 2 xícaras (chá) de leite fervente\n* 5 gemas\n* 2/3 de xícara (chá) de açúcar
+        \n* ¼ de xícara (chá) de amido de milho\n* 2 colheres (sopa) de manteiga
+        \n* 1 colher (chá) de essência de baunilha
+        \n\n\tCobertura
+        \n* 1 caixinha de morangos (300 g) cortados ao meio no sentido do comprimento
+        \n* 2 xícaras (chá) de água fria
+        \n* ½ caixinha de pó para gelatina de morango
+        \n* 2 colheres (sopa) de farinha de araruta\n* ½ xícara (chá) de açúcar
+        \n* Amêndoas torradas picadinhas para decorar
+        \n\n\tModo de preparo
+        \n* Misture a margarina com o açúcar e o sal. Acrescente a farinha, o amido e a água e amasse bem. Se necessário, adicione mais farinha, para a massa ficar lisa e macia.
+        \n* Abra a massa com o rolo em uma superfície levemente enfarinhada e forre uma fôrma baixa de fundo removível (22 cm de diâmetro).
+        \n* Fure levemente a massa com um garfo para não estufar enquanto assa e leve ao forno médio preaquecido (200ºC) por cerca de 30 minutos ou até dourar. Deixe esfriar.
+        \n* Recheie com o creme e distribua os morangos. Espalhe a cobertura delicadamente (apoie uma colher grande sobre os morangos e despeje o creme sobre a colher, deixando que se espalhe sobre a torta).
+        \n* Salpique a borda com amêndoas e leve à geladeira por pelo menos 2 horas antes de desenformar.
+        \n\n\tCreme:
+        \n* Misture o amido com o açúcar, as gemas e o leite em uma panela e leve ao fogo brando, mexendo sempre, até engrossar. Cozinhe por 5 mais minutos e, fora do fogo, incorpore a manteiga e a baunilha. Deixe esfriar.
+        Cobertura
+        Misture o açúcar, o pó de gelatina e a araruta e acrescente a água aos poucos. Leve ao fogo e mexa até engrossar. Utilize fria.
+        \n\n
+    </string>
+    <string name="torta_maca">
+        \tIngredientes:
+        \n\n\tMassa:
+        \n* 300 g de farinha de trigo (+ ou - 2 xícaras)\n* 3 colheres (de sopa) de açúcar
+        \n* 2/3 de xícara (de chá) de manteiga gelada\n* 3 colheres (de sopa) de água gelada (se precisar acrescente mais)
+        \n* 1 gema
+        \n\n\tRecheio:
+        \n* 6 maçãs\n* suco de 2 limões\n* 1/2 xícara (chá) de açúcar
+        \n* 1/2 colher (chá) de canela em pó\n* 1/3 xícara (chá) de farinha de rosca
+        \n\n\tModo de preparo:
+        \n\tMassa: 
+        \n* Em uma tigela coloque a farinha de trigo, uma pitada de sal, o açúcar e o fermento. 
+        \n* Acrescente a manteiga, e com as pontas dos dedos misture até formar uma farofa úmida. 
+        \n* Adicione o ovo, as rapas do limão e o leite. Misture bem até que a massa esteja homogênea.
+        \n* Forme uma bola, enrole no filme plástico e leve à geladeira por 30 minutos.
+        \n*Após, abra a massa em uma superfície enfarinhada. 
+        \n* Transfira para uma forma (ARO 23cm) de fundo removível untada com manteiga,
+         ajuste a massa para que fique no tamanho adequado para a forma colocando mais massa onde precisar e 
+        cortando os excessos para deixar a borda retinha.
+        \n* Fure toda a superfície com um garfo. Leve ao forno preaquecido a 180° por 15 minutos
+         (nessa etapa você vai apenas pré assar a massa).
+        \n* Enquanto isso prepare o Recheio: Descasque e corte as maçãs em cubinhos. Misture com suco de limão,
+         canela em pó e açúcar.
+        \n* Retire a base do forno, no fundo coloque a farinha de rosca e por cima todo o recheio de maçã.
+        \n* Abra o restante da massa, corte tiras e decore a torta.
+        \n*  Entre uma faixa e outra coloque bolinhas de massa. 
+        \n* Pincele a gema batida em toda a superfície da massa e salpique açúcar cristal.
+        \n* Leve ao forno preaquecido a 180° por 40 minutos.
+        \n\n
+    </string>
+    <string name="pudim_leite">
+        \tIngredientes:
+        \n* 1 lata de leite condensado\n* 2 medidas da lata de leite condensado de leite INTEGRAL
+        \n* 3 ovos\n* 1 xícara de açúcar\n* 1/2 xícara de água quente
+        \n\n\tModo de preparo:
+        \n* Pré-aqueça seu forno a 180°C.
+        \n* Faça a calda de caramelo, derreta o açucar, adicione aquela meia xícara de água morna ao caramelo.A água vai formar alguns caroços com o caramelo. Agora é só mexer até que ela fique homogênea de novo. Quando você passar a espátula no fundo da panela e a calda demorar pra voltar é porque esta pronta!
+        \n* Bata o leite condensado, o leite e os ovos no liquidificador. Para colocar a massa na forma faça do mesmo jeito que colocou a calda. Começe pelo meio.
+        \n* Para o pudim ficar lisinho e cremoso a gente assa em BANHO MARIA. Para agilizar o processo, antes de colocar na forma, ferva a água. Como o pudim é muito delicado, a gente também cobre a forma com um papel alumínio!
+        \n\n
+    </string>
+    <string name="pudim_pão">
+        \tIngredientes:
+        \n\n* 4 ovos\n* 1 lata de leite condensado\n* 3 pães (francês)\n* 1 colher de margarina
+        \n* 2 medidas de leite (medir na lata de leite condensado)\n* 2 xícara de açúcar
+        \n* 1 xícara de açúcar para a calda
+        \n\n\tModo de preparo:
+        \n\n* Misture todos os ingredientes no liquidificador e bata bem\n* Reserve
+        \n* Em uma forma própria para pudim derreta o açúcar para fazer a calda, espere endurecer um pouco e coloque o líquido que está no liquidificador
+        \n* Leve ao fogo por uns 35 minutos ou até você enfiar um garfo e ele sair limpo
+        \n\n
+    </string>
+    <string name="pudim_coco">
+        \tIngredientes
+        \n\tCalda: \n* 1 xícara (chá) de açúcar
+        \n\tPudim:
+        \n* 1 lata de leite consdensado \n*1 mesma medida (lata) de leite
+        \n* 1 vidro de leite de coco\n* 3 ovos\n* 1 xícara (chá) de coco fresco ralado
+        \n\n\t Modo de preparo:
+        \n\tCalda:
+        \n* Em uma panela de fundo largo, coloque o açúcar\n* Leve ao fogo baixo deixando derreter suavemente
+        \n* Quando estiver bem dourado, junte meia xícara (chá) de água fervente e mexa com uma colher de cabo longo
+        \n* Deixe ferver até dissolver os torrões de açúcar\n* Forre com esta calda uma forma com furo central (19 cm de diâmetro) e reserve
+        \n\tPudim:
+        \n* Em um liquidificador, bata os ingredientes
+        \n* Despeje na forma reservada, cubra com papel-alumínio e asse em banho-maria em forno médio (180°C), por cerca de 1 hora e 30 minutos
+        \n* Depois de frio, leve para gelar\n* Desenforme e sirva a seguir
+        \n\n
+    </string>
+    <string name="pudim_laranja">
+        \tIngredientes:
+        \n\n* 1 lata de leite condensado\n* 1 lata de leite
+        \n* Use a lata de leite condensado vazia para medir
+        \n* 1 lata de suco de laranja\n* 2 colheres de farinha de trigo\n* 3 ovos
+        \n* 1 xícara de chá de açúcar\n* 4 colheres de água\n* Raspas de casca de duas laranjas.
+        \n\n\tModo de preparo
+        \n\n*Dissolva o açúcar na água e leve ao fogo baixo por 12 minutos, até formar um caramelo
+        \n* Espalhe nas laterais e no fundo de uma forma com buraco no meio de 22cm de diâmetro
+        \n* Bata no liquidificador o leite condensado, o leite, o suco de laranja, os ovos e a farinha, junte as raspas e misture com uma colher
+        \n* Despeje na forma e leve ao forno médio preaquecido em banho-maria, por 50 minutos ou até ficar firme
+        \n* Retire do fogo e deixe esfriar, depois leve a geladeira por umas duas horas, desenforme e se quiser decore com as raspas de laranja
+        \n\n
+    </string>
+    <string name="pudim_chocolate">
+        \tIngredientes:
+        \n\tPudim:
+        \n*1 lata de leite condensado\n* 2 medidas da lata do condensado de leite
+        \n* 4 ovos \n* 8 colheres de chocolate em pó
+        \n\n\t Calda:
+        \n* 3 colheres de chocolate em pó\n* 2 colheres de açúcar
+        \n* 2 colheres de água \n* Chocolate granulado para enfeitar
+        \n\n\t Modo de preaparo:
+        \n* Faça primeiro a calda na forma de pudim, misture o chocolate, o açúcar e a água e leve ao fogo até derreter
+        \n* Cuidado para não queimar, reserve
+        \n* Bata o restante dos ingredientes no liquidificador e despeje sobre a forma
+        \n* Cubra a forma com papel alumínio e coloque em banho-maria por 40 minutos
+        \n* Espere esfriar bem e desenforme jogue o granulado por cima
+        \n* Atenção, não desenforme quente nem morno para não despedaçar
+        \n* Leve à geladeira e sirva gelado
+        \n\n
+    </string>
+</resources>
