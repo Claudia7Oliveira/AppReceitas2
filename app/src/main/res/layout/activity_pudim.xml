@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFD4AFF1"
+    android:background="#FFCAC7C7"
     tools:context=".pudimActivity">
 
 
@@ -30,7 +30,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="20dp"
         android:layout_marginTop="94dp"
-        android:background="#c890f3"
+        android:background="@android:color/darker_gray"
         android:textColor="@color/colorPrimaryDark" />
 
 </RelativeLayout>

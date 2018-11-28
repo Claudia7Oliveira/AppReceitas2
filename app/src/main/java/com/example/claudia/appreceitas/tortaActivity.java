@@ -19,9 +19,9 @@ public class tortaActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bolo);
+        setContentView(R.layout.activity_torta);
 
-        ListView listView = (ListView) findViewById(R.id.listaDeBolos);
+        ListView listView = (ListView) findViewById(R.id.listaDeTortas);
         ArrayAdapter<String>adapter = new ArrayAdapter<String>(
                 getApplicationContext(),
                 android.R.layout.simple_expandable_list_item_2,
@@ -32,9 +32,9 @@ public class tortaActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Intent intent = new Intent(view.getContext(),BoloCenouraActivity.class);
+                Intent intent = new Intent(view.getContext(),tortaBolachaActivity.class);
                 intent.putExtra("name",tiposTorta[position]);
-                // startActivity(new Intent(boloActivity.this,BoloCenouraActivity.class));
+
                 if (position == 0) {
                     startActivity(new Intent(tortaActivity.this, tortaBolachaActivity.class));
                 }
